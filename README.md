@@ -24,5 +24,5 @@ Skrip ini berjalan pada lingkungan Python 3.x. Tidak ada pustaka eksternal Pytho
 Kloning repositori ini ke dalam mesin lokal Anda:
 
 ```bash
-git clone [https://github.com/username-github-anda/snmp-scanner.git](https://github.com/username-github-anda/snmp-scanner.git)
+git clone https://github.com/shitodcy/snmp-scanner
 cd snmp-scanner
